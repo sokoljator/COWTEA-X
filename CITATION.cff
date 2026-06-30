@@ -18,7 +18,7 @@ authors:
     affiliation: "Umeå University, Sweden"
     orcid: "https://orcid.org/0000-0002-4931-2641"
 license: MIT
-repository-code: "https://github.com/YOUR_USERNAME/COWTEA-X"
+repository-code: "https://github.com/sokoljator/COWTEA-X"
 keywords:
   - metabolomics
   - GC-MS
