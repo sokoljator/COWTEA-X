@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "COWTEA-X: Cross-feeding Analysis Pipeline"
+version: 1.0.0
+date-released: "2026-06-30"
+abstract: >
+  COWTEA-X is a Python-based analysis and visualization pipeline for GC-MS
+  metabolomics data. It operates on CASIC/MetHub-processed, QC-filtered
+  metabolite matrices and provides IS normalization v2.0, unified statistical
+  testing and fold-change based candidate scoring, cross-feeding trajectory
+  plots, and clustered heatmaps. The pipeline was developed for bacterial
+  biofilm and planktonic metabolomics experiments.
+authors:
+  - family-names: Sokol
+    given-names: Dmytro
+    alias: SokolD
+    affiliation: "Umeå University, Sweden"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/COWTEA-X"
+keywords:
+  - metabolomics
+  - GC-MS
+  - cross-feeding
+  - biofilm
+  - COWTEA
+  - COWTEA-X
+  - Python
+  - CASIC

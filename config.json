@@ -1,0 +1,6 @@
+{
+    "xlsx_path": "Consolidated_CASIC_5media_withClass_final.xlsx",
+    "out_dir":   "output/CF_results",
+    "media":     ["AUM", "DEX", "GLY", "HisGly", "SUC"],
+    "scorer":    "enhanced"
+}
