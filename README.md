@@ -1,3 +1,7 @@
+<img width="1199" height="1312" alt="b945399e-d781-4542-97fa-67589699d0fc" src="https://github.com/user-attachments/assets/b4ada148-7a48-4182-bcec-d861916e70c9" />
+
+
+
 # COWTEA-X — Cross-Feeding Analysis Pipeline
 
 COWTEA-X is a Python-based analysis and visualization pipeline for GC-MS metabolomics data, designed as the continuation and logical extension of the original COWTEA pipeline. It operates on MetHub/CASIC-processed, QC-filtered metabolite matrices and focuses on cross-feeding patterns and treatment effects in bacterial biofilm, planktonic cell, and spent medium experiments.
